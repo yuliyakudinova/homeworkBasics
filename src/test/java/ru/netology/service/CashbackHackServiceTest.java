@@ -1,10 +1,9 @@
 package ru.netology.service;
 
-
 import org.testng.annotations.Test;
 import org.testng.Assert;
 
-class CashbackHackServiceTest {
+public class CashbackHackServiceTest {
 
     CashbackHackService service = new CashbackHackService();
 
